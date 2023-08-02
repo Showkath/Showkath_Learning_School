@@ -1,0 +1,29 @@
+/* Add additional styles for the Contact page here */
+section {
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+form label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+form input,
+form textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+}
+
+form button {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #555;
+}
